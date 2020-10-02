@@ -1,6 +1,6 @@
 ---
 theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: default
 locale: en-US
 title: rohan's world
 title_separator: "-"
@@ -137,7 +137,7 @@ markdown_ext: markdown,mkdown,mkdn,mkd,md
 markdown: kramdown
 highlighter: rouge
 lsi: false
-excerpt_separator: "\n\n"
+excerpt_separator: ''
 incremental: false
 kramdown:
   input: GFM
